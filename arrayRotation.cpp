@@ -1,3 +1,7 @@
+/*
+    To rotate a given array to the LEFT by "num" steps.
+*/
+
 #include <iostream>
 using namespace std;
 
